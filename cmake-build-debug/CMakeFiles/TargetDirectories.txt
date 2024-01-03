@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/jeu cours/cmake-build-debug/CMakeFiles/jeu_cours.dir
+C:/Users/Admin/Desktop/jeu cours/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/jeu cours/cmake-build-debug/CMakeFiles/rebuild_cache.dir
